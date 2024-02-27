@@ -1,0 +1,12 @@
+Запуск функции: get_employees
+Дата запуска функции get_employees: 2024-02-28 01:56:53.213779
+Aргументы функции get_employees: ((3, 6), {})
+Результат функции get_employees: None
+Запуск функции: get_employees
+Дата запуска функции get_employees: 2024-02-28 01:57:56.817583
+Aргументы функции get_employees: ((3, 6), {})
+Результат функции get_employees: None
+Запуск функции: get_employees
+Дата запуска функции get_employees: 2024-02-28 01:59:19.729552
+Aргументы функции get_employees: ((3, 6), {})
+Результат функции get_employees: 9
